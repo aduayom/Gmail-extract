@@ -1,4 +1,3 @@
-# https://youtu.be/K21BSZPFIjQ
 """
 Extract selected mails from your gmail account
 
